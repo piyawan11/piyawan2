@@ -1,6 +1,6 @@
 <html>
   <head>
-     <title>page1</title>
+    <title>page1</title>
   </head>
   <body bgcolor="lightblue">
     <h1 style="color=darkblue;>ประวัติส่วนตัว</h1>
