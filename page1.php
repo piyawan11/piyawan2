@@ -3,7 +3,7 @@
     <title>page1</title>
   </head>
   <body bgcolor="lightblue">
-    <h1 style="color=darkblue;>ประวัติส่วนตัว</h1>
+    <h1 style="color:darkblue;">ประวัติส่วนตัว</h1>
     <h2>
       <p><b>ชื่อ:</b> <i>นางสาวปิยวรรณ เติมเสริม</i></p>
       <p><b>ชื่อเล่น:</b> <i>ใบเตย</i></p>
